@@ -22,17 +22,10 @@
 
 <br />
 
-Hi, I'm [hebert villafuerte](https://hebertdev.tk/), a Full Stack Developer 🚀 from Peru, I have extensive experience in the design and building of web applications.
+
 <br />
 <br />
 
-# Aprende a crear esta aplicación. "clon de instagram - con React "
-<img  src="https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/img/clonstagramsignupmin.png" />
-
-#### REPO: https://github.com/hebertdev1/clonstagram-taller-de-react
-#### DEMO: https://clonstagram.tk/
-#### LISTA DE REPRODUCCIÓN: https://youtube.com/playlist?list=PLo-JHwqVafao7-3sb9VnJ1gmDv6MRovuX
-#### HEBERTDEV.LIVE: https://www.hebertdev.live/
 
   
 <br />
@@ -41,8 +34,7 @@ Hi, I'm [hebert villafuerte](https://hebertdev.tk/), a Full Stack Developer 🚀
 ### Donde me puedes encontrar
 
 _Personal_
-* :star::blush: A veces me vuelvo Youtuber DEV **[Videos](https://www.youtube.com/channel/UCvVxuO28XPe-fC6khHyAA_Q)** :v:
-* :star::blush: Mi sitio web **[Works](https://hebertdev.tk/works)** :v:
-* :star::blush: Fotos, tips y memes **[Instagram](https://www.instagram.com/hebertdev1)** :v:
-* :star::blush: Algo que no uso x1 **[Facebook](https://facebook.com/hebertdev1)** :v:
-* :star::blush: Algo que no uso x2 **[Twitter](https://twitter.com/hebertdev1)** :v:
+* :star::blush: 
+* :star::blush: 
+* :star::blush: 
+* :star::blush: 
